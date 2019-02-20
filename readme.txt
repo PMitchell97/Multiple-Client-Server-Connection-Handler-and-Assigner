@@ -1,38 +1,4 @@
 ****************************
-          Read Me
-****************************
-Major 2            CSCE 3600
-Thompson           MWF 9:30A
-****************************
-
-
-
-****************************
-        Group Members
-****************************
-
-Peter Neal
-Alex Alfonso
-Nicole Russo
-Preston Mitchell
-
-****************************
-        Organization
-****************************
-
-- Peter Neal
-C sockets and multi-threading, program flow, code implementation
-
-- Alex Alfonso
-Debugging, general code support, socket support, makefile
-
-- Nicole Russo
-Program logic model, debugging, general code support
-
-- Preston Mitchell
-Beautification, cleanup
-
-****************************
       Design Overview
 ****************************
 
